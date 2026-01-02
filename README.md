@@ -15,6 +15,44 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+👋 Hi, I’m Sarthak
+🎓 Computer Engineering student (B.E., Pune, graduating 2026)
+
+💻 Software Engineer | Full-Stack Developer | AI & Cloud Enthusiast
+📌 Passionate about building scalable, production-ready web applications that combine modern frontend, robust backend, cloud infrastructure, and AI-driven features.
+
+🚀 What I’ve worked on so far
+
+Built and deployed full-stack applications using React, Vue.js, Node.js, FastAPI, and MongoDB/PostgreSQL
+
+Developed AI-powered systems integrating Generative AI, data analysis, and automation
+
+Worked with 3D visualization (Three.js) and knowledge graph–based systems
+
+Designed backend services, REST APIs, real-time features (WebSockets), and cloud deployments on GCP & Firebase
+
+Experience collaborating in team projects and shipping features end-to-end
+
+🔧 Tech Stack
+
+Languages: JavaScript, TypeScript, Python, C++
+
+Frontend: React, Vue.js, Three.js, HTML, CSS
+
+Backend: Node.js, Express.js, FastAPI
+
+Databases: PostgreSQL, MongoDB, Neo4j, Firestore
+
+Cloud & DevOps: Google Cloud Platform, Docker, GitHub Actions
+
+Tools: Git, GitHub, Postman, Figma
+
+📚 Currently exploring
+Scalable backend architectures, cloud-native systems, AI-assisted applications, and system design fundamentals.
+
+📫 Let’s connect
+🔗 LinkedIn
+📧 Email: your-email-here
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarthak-kotkar-6271ab257/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inwardpossession17@gmail.com) 
