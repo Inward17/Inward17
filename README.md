@@ -39,7 +39,7 @@ I enjoy building scalable, production-ready systems — from interactive fronten
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/sarthak-kotkar-6271ab257/  
+🔗 LinkedIn: https://www.linkedin.com/in/sarthak-kotkar/  
 📧 Email: inwardpossession17@gmail.com  
 
 # 💻 Tech Stack:
